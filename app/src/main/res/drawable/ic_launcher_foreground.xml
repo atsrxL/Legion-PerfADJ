@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gauge: three-colour arc (save / balance / beast), needle pointing high. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M33,67 A22,22 0 0,1 38,40"
+        android:strokeWidth="6"
+        android:strokeColor="#2E9D57"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M44,35 A22,22 0 0,1 64,35"
+        android:strokeWidth="6"
+        android:strokeColor="#2F7BE5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M70,40 A22,22 0 0,1 75,67"
+        android:strokeWidth="6"
+        android:strokeColor="#E5483B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M54,60 L67,45"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,60 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+</vector>
